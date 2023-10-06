@@ -28,3 +28,4 @@ else
     echo "Reverted localhost to default loopback address"
     exit 1
 fi
+
